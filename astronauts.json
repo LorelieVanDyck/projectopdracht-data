@@ -1,0 +1,194 @@
+[
+	{
+	  "id": "AST-001",
+	  "name": "James Caldwell",
+	  "description": "Een ervaren astronaut met meer dan 500 dagen in een baan om de aarde.",
+	  "age": 45,
+	  "isActive": true,
+	  "birthDate": "1979-06-15",
+	  "imageUrl": "https://example.com/images/astronauts/james-caldwell.jpg",
+	  "rank": "Commander",
+	  "specialties": ["Orbital Mechanics", "Docking Procedures", "Lunar Landings"],
+	  "spaceAgency": {
+		"id": "AGENCY-101",
+		"name": "International Space Federation",
+		"agencyLogoUrl": "https://example.com/images/agencies/isf-logo.jpg",
+		"foundedYear": 1961,
+		"headquarters": "Geneva, Switzerland",
+		"director": "Dr. Marcus Wilhelm"
+	  }
+	},
+	{
+	  "id": "AST-002",
+	  "name": "Lena Kowalski",
+	  "description": "Gespecialiseerd in ruimtelijke biologie en het onderzoeken van microzwaartekracht op cellen.",
+	  "age": 38,
+	  "isActive": false,
+	  "birthDate": "1986-02-22",
+	  "imageUrl": "https://example.com/images/astronauts/lena-kowalski.jpg",
+	  "rank": "Scientist",
+	  "specialties": ["Microgravity Research", "DNA Sequencing", "Stem Cell Growth"],
+	  "spaceAgency": {
+		"id": "AGENCY-202",
+		"name": "Lunar Exploration Division",
+		"agencyLogoUrl": "https://example.com/images/agencies/led-logo.jpg",
+		"foundedYear": 1998,
+		"headquarters": "Houston, Texas",
+		"director": "Sarah Livingston"
+	  }
+	},
+	{
+	  "id": "AST-003",
+	  "name": "Hiroshi Tanaka",
+	  "description": "Ruimtevaartspecialist en expert in kunstmatige zwaartekracht.",
+	  "age": 42,
+	  "isActive": true,
+	  "birthDate": "1982-09-05",
+	  "imageUrl": "https://example.com/images/astronauts/hiroshi-tanaka.jpg",
+	  "rank": "Engineer",
+	  "specialties": ["Artificial Gravity", "Structural Engineering", "Propulsion Systems"],
+	  "spaceAgency": {
+		"id": "AGENCY-303",
+		"name": "Asian Space Alliance",
+		"agencyLogoUrl": "https://example.com/images/agencies/asa-logo.jpg",
+		"foundedYear": 1985,
+		"headquarters": "Tokyo, Japan",
+		"director": "Kenji Nakamura"
+	  }
+	},
+	{
+	  "id": "AST-004",
+	  "name": "Samantha O'Neill",
+	  "description": "Eerste vrouwelijke Mars-missiepiloot, bekend om haar precisielandingen.",
+	  "age": 39,
+	  "isActive": true,
+	  "birthDate": "1985-12-10",
+	  "imageUrl": "https://example.com/images/astronauts/samantha-oneill.jpg",
+	  "rank": "Pilot",
+	  "specialties": ["Mars Landings", "Orbital Rendezvous", "Thruster Control"],
+	  "spaceAgency": {
+		"id": "AGENCY-404",
+		"name": "European Space Consortium",
+		"agencyLogoUrl": "https://example.com/images/agencies/esc-logo.jpg",
+		"foundedYear": 1973,
+		"headquarters": "Berlin, Germany",
+		"director": "Franz Müller"
+	  }
+	},
+	{
+	  "id": "AST-005",
+	  "name": "Dmitry Ivanov",
+	  "description": "Voormalig straaljagerpiloot en nu astronaut gespecialiseerd in geavanceerde simulaties.",
+	  "age": 44,
+	  "isActive": false,
+	  "birthDate": "1980-08-03",
+	  "imageUrl": "https://example.com/images/astronauts/dmitry-ivanov.jpg",
+	  "rank": "Mission Specialist",
+	  "specialties": ["Flight Simulations", "G-Force Endurance", "High-Speed Maneuvers"],
+	  "spaceAgency": {
+		"id": "AGENCY-505",
+		"name": "United Space Research",
+		"agencyLogoUrl": "https://example.com/images/agencies/usr-logo.jpg",
+		"foundedYear": 2002,
+		"headquarters": "Washington, D.C.",
+		"director": "Thomas Reynolds"
+	  }
+	},
+	{
+	  "id": "AST-006",
+	  "name": "Victor Hammond",
+	  "description": "Een specialist in deep-space communicatie en interplanetaire navigatie.",
+	  "age": 48,
+	  "isActive": false,
+	  "birthDate": "1976-11-08",
+	  "imageUrl": "https://example.com/images/astronauts/victor-hammond.jpg",
+	  "rank": "Communication Specialist",
+	  "specialties": ["Signal Processing", "Quantum Encryption", "Deep-Space Navigation"],
+	  "spaceAgency": {
+		"id": "AGENCY-101",
+		"name": "International Space Federation",
+		"agencyLogoUrl": "https://example.com/images/agencies/isf-logo.jpg",
+		"foundedYear": 1961,
+		"headquarters": "Geneva, Switzerland",
+		"director": "Dr. Marcus Wilhelm"
+	  }
+	},
+	{
+	  "id": "AST-007",
+	  "name": "Isla Fernández",
+	  "description": "Astrofysicus en expert in zwarte gaten en kosmische straling.",
+	  "age": 34,
+	  "isActive": true,
+	  "birthDate": "1990-07-19",
+	  "imageUrl": "https://example.com/images/astronauts/isla-fernandez.jpg",
+	  "rank": "Scientist",
+	  "specialties": ["Black Hole Physics", "Gamma Ray Analysis", "Dark Matter Research"],
+	  "spaceAgency": {
+		"id": "AGENCY-303",
+		"name": "Asian Space Alliance",
+		"agencyLogoUrl": "https://example.com/images/agencies/asa-logo.jpg",
+		"foundedYear": 1985,
+		"headquarters": "Tokyo, Japan",
+		"director": "Kenji Nakamura"
+	  }
+	},
+	{
+	  "id": "AST-008",
+	  "name": "Raj Patel",
+	  "description": "Expert in ruimtekolonisatie en het opzetten van zelfvoorzienende habitats.",
+	  "age": 41,
+	  "isActive": true,
+	  "birthDate": "1983-03-29",
+	  "imageUrl": "https://example.com/images/astronauts/raj-patel.jpg",
+	  "rank": "Habitat Engineer",
+	  "specialties": ["Eco-Dome Design", "Hydroponics", "Radiation Shielding"],
+	  "spaceAgency": {
+		"id": "AGENCY-404",
+		"name": "European Space Consortium",
+		"agencyLogoUrl": "https://example.com/images/agencies/esc-logo.jpg",
+		"foundedYear": 1973,
+		"headquarters": "Berlin, Germany",
+		"director": "Franz Müller"
+	  }
+	},
+	{
+	  "id": "AST-009",
+	  "name": "Amina Diallo",
+	  "description": "Een bioloog gespecialiseerd in de invloed van microzwaartekracht op menselijk DNA.",
+	  "age": 36,
+	  "isActive": false,
+	  "birthDate": "1988-05-12",
+	  "imageUrl": "https://example.com/images/astronauts/amina-diallo.jpg",
+	  "rank": "Mission Specialist",
+	  "specialties": ["Genetic Engineering", "Microgravity Research", "Cellular Regeneration"],
+	  "spaceAgency": {
+		"id": "AGENCY-505",
+		"name": "United Space Research",
+		"agencyLogoUrl": "https://example.com/images/agencies/usr-logo.jpg",
+		"foundedYear": 2002,
+		"headquarters": "Washington, D.C.",
+		"director": "Thomas Reynolds"
+	  }
+	},
+	{
+	  "id": "AST-010",
+	  "name": "Omar Hussein",
+	  "description": "Ruimtevaarttechnicus en expert in het herstellen van ruimteschepen tijdens missies.",
+	  "age": 39,
+	  "isActive": true,
+	  "birthDate": "1985-09-01",
+	  "imageUrl": "https://example.com/images/astronauts/omar-hussein.jpg",
+	  "rank": "Engineer",
+	  "specialties": ["Mechanical Engineering", "Zero-Gravity Repairs", "Fusion Reactor Maintenance"],
+	  "spaceAgency": {
+		"id": "AGENCY-202",
+		"name": "Lunar Exploration Division",
+		"agencyLogoUrl": "https://example.com/images/agencies/led-logo.jpg",
+		"foundedYear": 1998,
+		"headquarters": "Houston, Texas",
+		"director": "Sarah Livingston"
+	  }
+	}
+  ]
+
+  

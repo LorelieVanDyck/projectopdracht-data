@@ -1,0 +1,42 @@
+[
+	{
+	  "id": "AGENCY-101",
+	  "name": "International Space Federation",
+	  "agencyLogoUrl": "https://example.com/images/agencies/isf-logo.jpg",
+	  "foundedYear": 1961,
+	  "headquarters": "Geneva, Switzerland",
+	  "director": "Dr. Marcus Wilhelm"
+	},
+	{
+	  "id": "AGENCY-202",
+	  "name": "Lunar Exploration Division",
+	  "agencyLogoUrl": "https://example.com/images/agencies/led-logo.jpg",
+	  "foundedYear": 1998,
+	  "headquarters": "Houston, Texas",
+	  "director": "Sarah Livingston"
+	},
+	{
+	  "id": "AGENCY-303",
+	  "name": "Asian Space Alliance",
+	  "agencyLogoUrl": "https://example.com/images/agencies/asa-logo.jpg",
+	  "foundedYear": 1985,
+	  "headquarters": "Tokyo, Japan",
+	  "director": "Kenji Nakamura"
+	},
+	{
+	  "id": "AGENCY-404",
+	  "name": "European Space Consortium",
+	  "agencyLogoUrl": "https://example.com/images/agencies/esc-logo.jpg",
+	  "foundedYear": 1973,
+	  "headquarters": "Berlin, Germany",
+	  "director": "Franz Müller"
+	},
+	{
+	  "id": "AGENCY-505",
+	  "name": "United Space Research",
+	  "agencyLogoUrl": "https://example.com/images/agencies/usr-logo.jpg",
+	  "foundedYear": 2002,
+	  "headquarters": "Washington, D.C.",
+	  "director": "Thomas Reynolds"
+	}
+  ]
